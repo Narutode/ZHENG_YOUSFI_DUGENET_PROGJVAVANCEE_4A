@@ -93,6 +93,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1402732542464688673}
+  - component: {fileID: 2263797111799857084}
   m_Layer: 0
   m_Name: CharacterBomberman
   m_TagString: Untagged
@@ -123,6 +124,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!136 &2263797111799857084
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1746360349181696155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.72943085
+  m_Height: 3.8606365
+  m_Direction: 1
+  m_Center: {x: -0.055807352, y: -0.048632026, z: -9.5108036e-17}
 --- !u!1 &2096116792563503975
 GameObject:
   m_ObjectHideFlags: 0

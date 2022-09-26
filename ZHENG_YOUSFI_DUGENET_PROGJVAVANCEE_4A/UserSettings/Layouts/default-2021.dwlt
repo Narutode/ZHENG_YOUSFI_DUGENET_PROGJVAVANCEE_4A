@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 118
+  controlID: 58
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 40
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 81
+  controlID: 65
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Karym\Documents\GitHub\ZHENG_YOUSFI_DUGENET_PROGJVAVANCEE_4A\ZHENG_YOUSFI_DUGENET_PROGJVAVANCEE_4A
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc5a0000
-    m_LastClickedID: 23228
-    m_ExpandedIDs: 00000000b25a000000ca9a3b
+    m_SelectedIDs: bc5b0000
+    m_LastClickedID: 23484
+    m_ExpandedIDs: 00000000b25b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b25a0000
+    m_ExpandedIDs: 00000000b25b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -487,10 +487,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 32}
-      m_SelectedIDs: e0590000
-      m_LastClickedID: 23008
-      m_ExpandedIDs: 1ce6ffff36fbffff025a0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 36fbffffea5900007e5a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.7534201, y: -106.49897, z: 6.624035}
+    m_Target: {x: 6.7172556, y: -100.84852, z: 14.694696}
     speed: 2
-    m_Value: {x: 0.7534201, y: -106.49897, z: 6.624035}
+    m_Value: {x: 0.12067628, y: 1.1869667, z: -9.025819}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -780,7 +780,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.68222, y: 0.01096574, z: -0.010234062, w: 0.7309946}
+    m_Target: {x: 0.6245913, y: 0.15273173, z: -0.12628584, w: 0.75538874}
     speed: 2
-    m_Value: {x: 0.68000716, y: 0.0120959245, z: -0.01122113, w: 0.7330198}
+    m_Value: {x: 0.63833785, y: -0.32794875, z: 0.3465729, w: 0.6040378}
   m_Size:
-    m_Target: 63.35128
+    m_Target: 65.80072
     speed: 2
-    m_Value: 66.33642
+    m_Value: 62.967197
   m_Ortho:
     m_Target: 0
     speed: 2
