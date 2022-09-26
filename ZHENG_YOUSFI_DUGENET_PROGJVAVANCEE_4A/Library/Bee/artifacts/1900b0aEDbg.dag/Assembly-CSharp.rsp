@@ -353,7 +353,11 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Bomb.cs"
 "Assets/Scripts/CharacterMovement.cs"
+"Assets/Scripts/Map.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/Wall.cs"
 -langversion:9.0
 
 /deterministic
