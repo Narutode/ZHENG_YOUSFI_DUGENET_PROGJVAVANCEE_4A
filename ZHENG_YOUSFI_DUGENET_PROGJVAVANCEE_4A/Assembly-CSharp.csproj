@@ -44,10 +44,16 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\CharacterMovement.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\Wall.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\Map.cs" />
      <Compile Include="Assets\Scripts\Bomb.cs" />
+=======
+     <Compile Include="Assets\Scripts\Bomb.cs" />
+     <Compile Include="Assets\Scripts\Map.cs" />
+     <Compile Include="Assets\Scripts\Wall.cs" />
+>>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
 =======
      <Compile Include="Assets\Scripts\Bomb.cs" />
      <Compile Include="Assets\Scripts\Map.cs" />
