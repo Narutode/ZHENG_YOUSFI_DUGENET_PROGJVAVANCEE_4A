@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Bomb : MonoBehaviour
 {
-    //private Vector2 position;
-    private int power;
+    private int power = 1;
     private float timer = 3;
+    
     // Start is called before the first frame update
     void Start()
     {

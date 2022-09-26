@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Map : MonoBehaviour
 {
-    private List<Player> players = new List<Player>();
-    private List<Bomb> bombs = new List<Bomb>();
-    private List<Wall> walls = new List<Wall>();
+    public List<PlayerBomberman> players = new List<PlayerBomberman>();
+    public List<Bomb> bombs = new List<Bomb>();
+    public List<Wall> walls = new List<Wall>();
 
     // Start is called before the first frame update
     void Start()
