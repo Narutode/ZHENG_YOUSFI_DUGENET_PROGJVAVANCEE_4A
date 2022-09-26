@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Map : MonoBehaviour
 {
-    public List<Player> players = new List<Player>();
+    public List<PlayerBomberman> players = new List<PlayerBomberman>();
     public List<Bomb> bombs = new List<Bomb>();
     public List<Wall> walls = new List<Wall>();
 

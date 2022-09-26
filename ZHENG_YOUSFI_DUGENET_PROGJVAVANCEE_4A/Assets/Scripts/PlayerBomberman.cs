@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class PlayerBomberman : MonoBehaviour
 {
-    //private Vector3 position = Transform;
     float speed = 1;
     int nbBombes = 1;
     private int bombPower = 1;
@@ -27,6 +26,7 @@ public class Player : MonoBehaviour
 
     public void PlantBomb(GameObject bomb, GameObject player)
     {
+        
         if (_bombReady)
         {
             _countDown = Time.time;
@@ -36,17 +36,14 @@ public class Player : MonoBehaviour
             _bombReady = false;
 
         }
+            
+        // Compte à rebours
+        if (Time.time - _countDown >= 5)
+        {
 
-    
-    // Compte à rebours
-    if (Time.time - _countDown >= 5)
-    {
+            _bombReady = true;
 
-        _bombReady = true;
-
+        }
     }
-    
-    }
-
 }
 

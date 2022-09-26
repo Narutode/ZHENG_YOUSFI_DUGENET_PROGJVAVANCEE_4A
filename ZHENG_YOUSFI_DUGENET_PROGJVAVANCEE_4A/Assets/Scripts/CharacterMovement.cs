@@ -8,14 +8,14 @@ public class CharacterMovement : MonoBehaviour
     public int speed;
     public GameObject bomb;
 
-     Player Player;
+    PlayerBomberman Player;
 
 
 
     // Start is called before the first frame update
     void Start()
     {
-        Player = FindObjectOfType<Player>();
+        Player = FindObjectOfType<PlayerBomberman>();
     }
 
     // Update is called once per frame
