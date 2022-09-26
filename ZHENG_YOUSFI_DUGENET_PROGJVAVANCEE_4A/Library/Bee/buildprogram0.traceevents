@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "pid": 35942, "tid": 1, "ts": 1664195704132851, "dur": 214286, "ph": "X", "name": "BuildProgram", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1664195704133673, "dur": 52437, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1664195704308772, "dur": 2471, "ph": "X", "name": "OutputData.Write", "args": {} },
@@ -12,6 +13,8 @@
 { "pid": 35942, "tid": 1, "ts": 1664195704350993, "dur": 914, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1664195704350323, "dur": 1605, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 =======
+=======
+>>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
 =======
 >>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
 =======
@@ -25,6 +28,9 @@
 { "pid": 35942, "tid": 1, "ts": 1664195738244496, "dur": 4051, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
+=======
 >>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
 =======
 >>>>>>> fac89ea3112eb483542516d8c85f1515f6aaa555
