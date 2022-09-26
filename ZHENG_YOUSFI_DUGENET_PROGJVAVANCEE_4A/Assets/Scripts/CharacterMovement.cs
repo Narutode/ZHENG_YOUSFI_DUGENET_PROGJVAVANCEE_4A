@@ -16,6 +16,7 @@ public class CharacterMovement : MonoBehaviour
     void Start()
     {
         Player = FindObjectOfType<Player>();
+        
     }
 
     // Update is called once per frame
