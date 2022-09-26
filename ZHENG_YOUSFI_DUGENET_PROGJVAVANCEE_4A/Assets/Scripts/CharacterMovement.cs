@@ -5,6 +5,8 @@ using UnityEngine;
 public class CharacterMovement : MonoBehaviour
 {
     public int speed;
+
+    public GameObject bomb;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,6 +34,12 @@ public class CharacterMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
         {
             gameObject.transform.Translate(new Vector3(-0,0,speed) * Time.deltaTime);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            bomb.transform.position = new Vector3(gameObject.transform.position.x,gameObject.transform.position.y ,gameObject.transform.position.z );
+            Instantiate(bomb);
         }
         
     }
