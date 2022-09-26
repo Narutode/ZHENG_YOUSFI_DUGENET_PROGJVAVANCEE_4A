@@ -4564,8 +4564,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 089bafa87db6efe44bf6a05d5892d29f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  bomb: {fileID: 0}
+  speed: 5
+  bomb: {fileID: 2417536319458271139, guid: 6527725b3463d874d85aa1c89681166b, type: 3}
 --- !u!54 &1466354079
 Rigidbody:
   m_ObjectHideFlags: 0

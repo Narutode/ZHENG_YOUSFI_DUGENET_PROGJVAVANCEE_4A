@@ -353,10 +353,10 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Bomb.cs"
 "Assets/Scripts/CharacterMovement.cs"
-<<<<<<< HEAD
 "Assets/Scripts/Map.cs"
-"Assets/Scripts/Player.cs"
+"Assets/Scripts/PlayerBomberman.cs"
 "Assets/Scripts/Wall.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
@@ -392,8 +392,6 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
-=======
->>>>>>> 172c74b16fe854fd99213a9e9815300140462098
 -langversion:9.0
 
 /deterministic
