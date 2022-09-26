@@ -26,7 +26,12 @@ public class CharacterMovement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Q))
         {
-            gameObject.transform.Translate(new Vector3(0,0,speed) * Time.deltaTime);
+            gameObject.transform.Translate(new Vector3(0,0,-speed) * Time.deltaTime);
+        }
+
+        if (Input.GetKey(KeyCode.D))
+        {
+            gameObject.transform.Translate(new Vector3(-0,0,speed) * Time.deltaTime);
         }
         
     }
